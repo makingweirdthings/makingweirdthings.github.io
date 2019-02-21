@@ -54,7 +54,7 @@ A second, identical toy would be cheaper ($35) because the mold has already been
 
 ## Things I had already, and didn't need to purchase
 
-* Generic sculpting tools. I had one loop tool, and various flat tools.
+* Generic, cheap sculpting tools. I had one loop tool, and various flat tools.
 * Guitar strings. I used a spare set to create fine rake tools
 * Plastic cups, condiment cups, plastic flatware, popsicle sticks
 * Cheap, synthetic brushes

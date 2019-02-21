@@ -71,10 +71,10 @@ A second, identical toy would be cheaper ($35) because the mold has already been
 
 ## Cutting costs:
 
-Things I didn't actually need to buy:
+Things I didn't absolutely need to buy:
 
-* All of the sculpting, but I like them.
+* All of the sculpting tools. I used them, but it could have been done without them.
 * Armature wire and used stiffer copper wire, which I already had
-* Silicone retardant, and just work faster
-* Lexan sheet, and built a larger volume square box instead with scraps
-* Mica or pigment
+* Silicone retardant, and just work faster.
+* Lexan sheet. I could have built a larger volume square box instead with scraps.
+* Mica or pigment. Color isn't strictly required.

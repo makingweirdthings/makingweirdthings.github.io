@@ -49,3 +49,9 @@ main {
     margin-top: 3rem;
   }
 }
+
+.nav-title, .nav-title li {
+  -webkit-transition: color .2s ease-out;
+  -moz-transition: color .2s ease-out;
+  transition: color .2s ease-out;
+}

@@ -44,3 +44,15 @@ plugins:
 #   - vendor/ruby/
 
 theme: jekyll-theme-cayman
+
+collections:
+  toys:
+    output: true
+    permalink: /toys/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "toys"
+    values:
+      layout: default

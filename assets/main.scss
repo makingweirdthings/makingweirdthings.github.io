@@ -52,6 +52,11 @@ main {
   figure {
     margin: 0 0 1rem;
     position: relative;
+    display: inline-block;
+
+    img {
+      margin-bottom: 0
+    }
   }
   figcaption {
     position: absolute;

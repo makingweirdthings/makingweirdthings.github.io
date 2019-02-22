@@ -7,7 +7,7 @@ title: Resources
 The oil-based-clay FAQ  
 <https://juxtamorph.com/the-oil-based-clay-faq-oil-based-clay-for-sculpture/>{: rel="noreferrer"}
 
-Making rake tools for sculpting
+Making rake tools for sculpting  
 <https://www.youtube.com/watch?v=m55SDY4x098>{: rel="noreferrer"}
 
 Sculpture geek's channel on youtube  
@@ -23,6 +23,9 @@ Making a one-piece glove mold. This is the method I'm using for my mold
 
 Making a brush on silicone mold  
 <https://www.youtube.com/watch?v=ZCIO_2J1gF0>{: rel="noreferrer"}
+
+Bubble-free casting without a degassing/vacuum chamber ("Bombs away" method)  
+<https://youtu.be/WtodXHMDOP8?t=247>{: rel="noreferrer"}
 ## Sex toy-specific
 
 How to make your own silicon diy dildo creations  

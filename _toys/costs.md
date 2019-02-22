@@ -41,12 +41,14 @@ Making a single toy actually consumed:
 
  Item | Used | Cost
 -- | -- | --
-Brush on silicone | 3.2 ounces (~ 7%) estimated | 2.30
-Foam | 1/3 lb (~ 12%) estimated | 3.63
+Brush on silicone | 3.2 ounces (~ 7%) | 2.30
+Foam | 1/3 lb (~ 12%) | 3.63
 Release agent | Unknown | ?
 Mica | 21 grams | 4.10
 Casting silicone | 25 fl oz | 31.00
 **Total** | |  **41.03**
+
+All amounts above are estimates, as the work hasn't been done yet.
 
 A second, identical toy would be cheaper ($35) because the mold has already been made.
 
@@ -59,6 +61,7 @@ A second, identical toy would be cheaper ($35) because the mold has already been
 * Plastic cups, condiment cups, plastic flatware, popsicle sticks
 * Cheap, synthetic brushes
 * Odorless mineral spirits
+* Dremel and cut off wheels, used for making rake tools
 * Dish soap and mineral oil for smoothing clay
 
 ## Things I have not purchased yet, but may/will need

@@ -7,6 +7,9 @@ title: Resources
 The oil-based-clay FAQ  
 <https://juxtamorph.com/the-oil-based-clay-faq-oil-based-clay-for-sculpture/>{: rel="noreferrer"}
 
+Making rake tools for sculpting
+<https://www.youtube.com/watch?v=m55SDY4x098>{: rel="noreferrer"}
+
 Sculpture geek's channel on youtube  
 <https://www.youtube.com/channel/UCKf4vzRQJc9cVfaAYaZBS1w>{: rel="noreferrer"}  
 and short video about his process  

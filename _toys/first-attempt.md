@@ -16,16 +16,24 @@ and mostly not specific to sex toys, which have their own unique challenges.
 
 ## Sculpting
 
-I started with 2 lbs of Chavant NSP hard clay, softened in the microwave. I used 1/4&quot; armature wire,
+For clay, I'm using Chavant NSP, in hard. NSP is a oil, wax, and mineral clay
+that does not dry out or harden. At room temperature, it's pretty firm, and can be carved and accepts
+sharp detail. It's non-sulphur, and won't prevent platinum silicone from curing.
+
+While I like that the clay can be reused, and that it's firm enough not to show fingerprints every time I touch it,
+I would probably prefer to use a polymer clay (like Super Sculpey) for a smaller toy.
+After baking, it can be sanded and filled to get a a very smooth finish, with much less effort.
+
+I started with 2 lbs of clay, softened in the microwave. I used 1/4&quot; armature wire,
 and wrapped crumpled aluminum foil around that to bulk out to about 1&quot; in diameter.
 
 I wrapped and mooshed the softened clay around the armature and foil, and made rough base, and bulked it out further
 with coils of clay.
 
 If I did this again, I'd better plan out what I was working on (with a drawing), and the dimensions
-I wanted to target. I could have been using more foil and less clay. Instead, I just kind of built
+I wanted to target. I could have been using more foil and less clay (this used about 1.5lbs, but
+ could have used less than half of that with better planning). Instead, I just kind of built
 it up organically until I liked it, and then added a big knot in the middle for no real reason.
-
 
 ### Tools
 
@@ -121,6 +129,10 @@ Second, the foam is much cheaper by volume than silicone. The same 75 fluid ounc
 {% include image.html url="/assets/img/toys/brush_on_test.jpg" description="Clay with a single, thin layer of Rebound 25. I'm testing for cure inhibition" %}
 
 ## Casting
+
+*TODO*
+
+### Additives and pigments
 
 *TODO*
 

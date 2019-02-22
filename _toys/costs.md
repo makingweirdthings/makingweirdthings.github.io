@@ -7,14 +7,17 @@ Here's what I've purchased for this project so far.
 
 ## Materials
 
-Item | Price
---: | :--
-Clay (NSP Chavant Hard) | 22.85
-Armature wire | 8.99
-Mica | 23.80
-Thi-vex | 8.89
-Silicone, <br>release, <br> foam, <br>retardant | 144.70
-**Total** | **209.23**
+Item | Quantity | Price
+-- | -- | --
+Clay (NSP Chavant Hard) | 2 lbs | 22.85
+Armature wire | Various sizes/lengths | 8.99
+Mica | Various, 2.75oz total | 23.80
+Silicone (Ecoflex 00-50) | 2 lbs | 32.21
+Silicone thickener (Thi-vex) | 1oz | 8.89
+Cure retardant (Slo-Jo) | 1 lb | 17.87
+Release agent | 12oz can | 13.86
+Expanding foam (FlexFoam-iT III) | 2.8lbs | 30.29
+**Total** | | **158.76**
 
 ## Tools
 
@@ -29,7 +32,7 @@ Fixit sculpt | 26.95
 Lexan sheet | 12.45
 **Total** | **83.05**
 
-### Spent so far: $295.40 USD
+### Spent so far: $241.81 USD
 
 ## Estimated toy cost
 
@@ -44,14 +47,13 @@ Making a single toy actually consumed:
 Brush on silicone | 3.2 ounces (~ 7%) | 2.30
 Foam | 1/3 lb (~ 12%) | 3.63
 Release agent | Unknown | ?
-Mica | 21 grams | 4.10
+Mica | 21 grams | 9.75
 Casting silicone | 25 fl oz | 31.00
-**Total** | |  **41.03**
+**Total** | |  **46.68**
 
 All amounts above are estimates, as the work hasn't been done yet.
 
-A second, identical toy would be cheaper ($35) because the mold has already been made.
-
+A second, identical toy would be cheaper ($41) because the mold has already been made.
 
 
 ## Things I had already, and didn't need to purchase

@@ -24,6 +24,9 @@ Making a one-piece glove mold. This is the method I'm using for my mold
 Making a brush on silicone mold  
 <https://www.youtube.com/watch?v=ZCIO_2J1gF0>{: rel="noreferrer"}
 
+Making a one-piece matrix mold. I may try this in the future, but probably not with an oil clay positive.  
+<https://www.youtube.com/watch?v=o1bLTp-K9Rc>{: rel="noreferrer"}
+
 Bubble-free casting without a degassing/vacuum chamber ("Bombs away" method)  
 <https://youtu.be/WtodXHMDOP8?t=247>{: rel="noreferrer"}
 ## Sex toy-specific

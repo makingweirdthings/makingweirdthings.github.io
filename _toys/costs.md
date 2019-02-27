@@ -45,11 +45,11 @@ Making a single toy actually consumed:
  Item | Used | Cost
 -- | -- | --
 Brush on silicone | 3.2 ounces (~ 7%) | 2.30
-Foam | 1/3 lb (~ 12%) | 3.63
+Foam | 3/4 lb (~ 26%) | 7.80
 Release agent | Unknown | ?
 Mica | 21 grams | 9.75
 Casting silicone | 25 fl oz | 31.00
-**Total** | |  **46.68**
+**Total** | |  **50.85**
 
 All amounts above are estimates, as the work hasn't been done yet.
 

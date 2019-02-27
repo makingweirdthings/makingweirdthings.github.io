@@ -144,12 +144,14 @@ Second, the foam is much cheaper by volume than silicone. The same 75 fluid ounc
 For the first coat, I first made a quick mold for registration keys that will be used to align the silicone mold with the foam shell,
 using unbaked Sculpey.
 
-For the first coat, I mixed up 30 grams of Rebound 25, and started by pouring two of the three registration keys, but I felt
+I mixed up 30 grams of Rebound 25, and started by pouring two of the three registration keys, but I felt
 like I wouldn't have enough silicone for the first coat, and storted brushing on the first coat instead.
+
+I recommend adding a pigment to the first coat, if using over a brown clay like this one.
 
 {% include image.html url="/assets/img/toys/first_coat.jpg" description="Clay with first coat of Rebound 25" %}
 
-The pigment in part B of the rebound is flourescent, so I found that I could easily thin spots in the first coat using
+The pigment in part B of the rebound is fluorescent, so I found that I could easily thin spots in the first coat using
 a UV flashlight, which I'll fill in on the second coat.
 
 {% include image.html url="/assets/img/toys/uv.jpg" description="Rebound 25 under UV light" %}

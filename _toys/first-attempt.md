@@ -4,15 +4,28 @@ sticky: true
 date: 2019-02-20
 ---
 
-My first attempt at silicone casting: making a large, unrealistic dildo.
+My first attempt at silicone casting: making a large, fantasy/unrealistic dildo.
 
 There's a great deal of quality information available for the modeling/molding/casting process, but rarely in one place,
 and mostly not specific to sex toys, which have their own unique challenges.
+
+I haven't done any molding/casting before, so [some mistakes will be made](/toys/mistakes).
 
 **Outline**
 1. TOC
 {:toc}
 
+## Materials
+
+I'll primarily be using the following materials
+
+* Chavant NSP clay for the positive model
+* Smooth-On Rebound 25 brush on silicone for the mold
+* Smooth-On FlexFoam-iT III for the mold shell
+* Smooth-On Ecoflex 00-50 silicone for the cast
+* Cosmetic mica for color
+
+Detailed materials and parts list (with cost) here: [Material costs](/toys/costs)
 
 ## Sculpting
 
@@ -124,9 +137,24 @@ in the middle. With a block mold, I think I'd need to cut a split in the side, a
 need to be removed after casting. Since both the mold and cast are flexible, though, that might not be necessary.
 
 Second, the foam is much cheaper by volume than silicone. The same 75 fluid ounces of 3 lb foam, cast at 5 lbs,
-(I'm using FlexFoam-iT III) will cost about $4.50, but would cost about $88 in silicone.
+(I'm using FlexFoam-iT III) will cost about $4.50, but would cost about $130 in silicone.
 
 {% include image.html url="/assets/img/toys/brush_on_test.jpg" description="Clay with a single, thin layer of Rebound 25. I'm testing for cure inhibition" %}
+
+For the first coat, I first made a quick mold for registration keys that will be used to align the silicone mold with the foam shell,
+using unbaked Sculpey.
+
+For the first coat, I mixed up 30 grams of Rebound 25, and started by pouring two of the three registration keys, but I felt
+like I wouldn't have enough silicone for the first coat, and storted brushing on the first coat instead.
+
+{% include image.html url="/assets/img/toys/first_coat.jpg" description="Clay with first coat of Rebound 25" %}
+
+The pigment in part B of the rebound is flourescent, so I found that I could easily thin spots in the first coat using
+a UV flashlight, which I'll fill in on the second coat.
+
+{% include image.html url="/assets/img/toys/uv.jpg" description="Rebound 25 under UV light" %}
+
+
 
 ## Casting
 

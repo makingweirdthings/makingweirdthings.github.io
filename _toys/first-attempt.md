@@ -155,7 +155,6 @@ a UV flashlight, which I'll fill in on the second coat.
 {% include image.html url="/assets/img/toys/uv.jpg" description="Rebound 25 under UV light" %}
 
 
-
 ## Casting
 
 *TODO*

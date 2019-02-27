@@ -34,3 +34,16 @@ container was still sealed.
 
 I cleaned the (unmixed) silicone off with water and paper towels. Unsurprisingly, mixed silicone
 set up much better.
+_
+## Brush-on Molds
+
+It was really easy to underestimate the amount of Rebound 25 to mix up for the second coat.
+The first coat tends to 'grab' the second one, and it's more difficult to brush on as thinly as the first.
+ 
+ Also, I was afraid of disturbing the first layer, and I'm sure I did somewhat. I'm hoping this doesn't 
+ affect the final outcome too terribly.
+ 
+ I used 30 grams of rebound for the first and second coat, but I probably should have used at least 40 or 50 instead.
+
+I'm more interested in trying make [a matrix mold](https://www.youtube.com/watch?v=o1bLTp-K9Rc){: rel="noreferrer"} 
+instead next time.

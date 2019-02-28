@@ -156,6 +156,21 @@ a UV flashlight, which I'll fill in on the second coat.
 
 {% include image.html url="/assets/img/toys/uv.jpg" description="Rebound 25 under UV light" %}
 
+Added one more thin coat, then one coat thickened with thi-vex.
+
+{% include image.html url="/assets/img/toys/thickened.jpg" description="2nd coat, followed by thickened Rebound" %}
+
+Added one more thin coat, one thick, and one thin, then trimmed the base.
+
+{% include image.html url="/assets/img/toys/trimmed.jpg" description="Inner mold finished" %}
+
+### FlexFoam Shell
+
+I'm testing release agens, temperature and mixing methods without much luck. Foam shrinks away from the mold walls,
+or falls, or doesn't rise nearly as much as it ought to.
+
+{% include image.html url="/assets/img/toys/foam_tests.jpg" description="FlexFoam-iT III in cups" %}
+
 
 ## Casting
 

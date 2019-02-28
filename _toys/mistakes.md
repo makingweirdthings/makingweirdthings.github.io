@@ -47,3 +47,11 @@ The first coat tends to 'grab' the second one, and it's more difficult to brush 
 
 I'm more interested in trying make [a matrix mold](https://www.youtube.com/watch?v=o1bLTp-K9Rc){: rel="noreferrer"} 
 instead next time.
+
+## Registration Keys and Cure Inhibition
+
+Tried to make some registration keys using (uncured) Sculpey while making the brush on mold.
+
+While (I believe) cured Sculpey shouldn't inhibit platinum silicone, the keys were still a sticky mess after a couple of
+hours. Probably should have verified first, and just used oil clay instead.  
+<https://thebluebottletree.com/polymer-clay-silicone-mold-putty>{: rel="noreferrer"}

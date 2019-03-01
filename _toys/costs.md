@@ -16,7 +16,7 @@ Silicone (Ecoflex 00-50) | 2 lbs | 32.21
 Silicone thickener (Thi-vex) | 1oz | 8.89
 Cure retardant (Slo-Jo) | 1 lb | 17.87
 Release agent | 12oz can | 13.86
-~Expanding foam~ (FlexFoam-iT III) | 2.8lbs | ~30.29~
+~~Expanding foam~~ (FlexFoam-iT III) | 2.8lbs | ~~30.29~~
 Plaster bandages | 12 rolls | 18.89
 **Total** | | 147.36
 
@@ -30,8 +30,8 @@ Lazy susan | 10.99
 Scraper tools | 7.99
 Bass string set | 7.99
 Fixit sculpt | 26.95
-~Lexan sheet~ | ~12.45~
-~Wooden dowels~ | ~3.12~
+~~Lexan sheet~~ | ~~12.45~~
+~~Wooden dowels~~ | ~~3.12~~
 **Total** | **70.60**
 
 ### Spent so far: $217.96 USD
@@ -43,11 +43,12 @@ Making a single toy actually consumed:
  Item | Used | Cost
 -- | -- | --
 Brush on silicone | 9.5 ounces | 9.66
+Thi-vex | 1 gram | 0.31
 Plaster bandages | 2 rolls, | 3.15
 Release agent | Unknown | ?
 Mica | 14 grams | 4.27
 Casting silicone | 25 fl oz | 31.00
-**Total** | |  48.08
+**Total** | |  48.39
 
 Some amounts above are estimates, as the work hasn't been done yet.
 

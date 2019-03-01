@@ -171,6 +171,8 @@ or falls, or doesn't rise nearly as much as it ought to.
 
 {% include image.html url="/assets/img/toys/foam_tests.jpg" description="FlexFoam-iT III in cups" %}
 
+### Plaster shell
+*TODO* 
 
 ## Casting
 

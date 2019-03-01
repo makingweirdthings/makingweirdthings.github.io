@@ -16,8 +16,9 @@ Silicone (Ecoflex 00-50) | 2 lbs | 32.21
 Silicone thickener (Thi-vex) | 1oz | 8.89
 Cure retardant (Slo-Jo) | 1 lb | 17.87
 Release agent | 12oz can | 13.86
-Expanding foam (FlexFoam-iT III) | 2.8lbs | 30.29
-**Total** | | **158.76**
+~Expanding foam~ (FlexFoam-iT III) | 2.8lbs | ~30.29~
+Plaster bandages | 12 rolls | 18.89
+**Total** | | 147.36
 
 ## Tools
 
@@ -29,31 +30,28 @@ Lazy susan | 10.99
 Scraper tools | 7.99
 Bass string set | 7.99
 Fixit sculpt | 26.95
-Lexan sheet | 12.45
-**Total** | **83.05**
+~Lexan sheet~ | ~12.45~
+~Wooden dowels~ | ~3.12~
+**Total** | **70.60**
 
-### Spent so far: $241.81 USD
+### Spent so far: $217.96 USD
 
 ## Estimated toy cost
-
-Some items are reusable (tools, clay), and represent one time costs. 
-
-Some consumable materials use only a portion of what I purchased.
 
 Making a single toy actually consumed:
 
  Item | Used | Cost
 -- | -- | --
-Brush on silicone | 3.2 ounces (~ 7%) | 2.30
-Foam | 3/4 lb (~ 26%) | 7.80
+Brush on silicone | 9.5 ounces | 9.66
+Plaster bandages | 2 rolls, | 3.15
 Release agent | Unknown | ?
-Mica | 21 grams | 9.75
+Mica | 14 grams | 4.27
 Casting silicone | 25 fl oz | 31.00
-**Total** | |  **50.85**
+**Total** | |  48.08
 
-All amounts above are estimates, as the work hasn't been done yet.
+Some amounts above are estimates, as the work hasn't been done yet.
 
-A second, identical toy would be cheaper ($41) because the mold has already been made.
+A second, identical toy would be cheaper (~$35) because the mold has already been made.
 
 
 ## Things I had already, and didn't need to purchase
@@ -73,6 +71,11 @@ A second, identical toy would be cheaper ($41) because the mold has already been
 * Silicone accelerant for slush casting.
 * Vacuum pump and chamber for silicone degassing. I'm hoping I can get away without this using 
 
+## Things I bought, and didn't use
+
+* 1/4&quot; wooden dowels for tool making
+* FlexFoam-iT III for as a mold support
+* Lexan sheet, because I'm not using the foam
 
 ## Cutting costs:
 

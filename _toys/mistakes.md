@@ -2,6 +2,11 @@
 title: Mistakes were made
 ---
 
+It's a learning experience.
+
+1. TOC
+{:toc}
+
 ## DIY Tools
 
 I wanted a set of rake tools. I had guitar strings, but no small diameter
@@ -55,3 +60,13 @@ Tried to make some registration keys using (uncured) Sculpey while making the br
 While (I believe) cured Sculpey shouldn't inhibit platinum silicone, the keys were still a sticky mess after a couple of
 hours. Probably should have verified first, and just used oil clay instead.  
 <https://thebluebottletree.com/polymer-clay-silicone-mold-putty>{: rel="noreferrer"}
+
+
+## Foam Mothermold
+
+It's possible that I got a bad batch, or that it was exposed to low temperatures during shipping, but I haven't 
+had any luck getting FlexFoam-iT to set up correctly. I made a bunch of small tests molds, and regardless of ambient
+temperature, or mixing methods, I cannot get it to set up correctly, or expand to the expected volume.
+
+Even with low expansion, I don't think the foam is dense enough to support the thin silicone shell around
+a tall, liquid silicone pour. Going to try switching to a plaster bandage shell instead.

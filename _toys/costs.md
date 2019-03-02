@@ -45,11 +45,11 @@ Making a single toy actually consumed:
 -- | -- | --
 Brush on silicone | 9.5 ounces | 9.66
 Thi-vex | 1 gram | 0.31
-Plaster bandages | 2 rolls, | 3.15
+Plaster bandages | 3 rolls, | 4.72
 Release agent | Unknown | ?
 Mica | 14 grams | 4.27
 Casting silicone | 25 fl oz | 31.00
-**Total** | |  48.39
+**Total** | |  49.96
 
 Some amounts above are estimates, as the work hasn't been done yet.
 

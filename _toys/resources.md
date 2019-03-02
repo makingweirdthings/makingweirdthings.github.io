@@ -20,15 +20,18 @@ and short video about his process
 Making a one-piece glove mold. This is the method I'm using for my mold  
 <https://www.polytek.com/tutorial/how-make-rubber-glove-or-sock-mold>{: rel="noreferrer"}
 
-
 Making a brush on silicone mold  
 <https://www.youtube.com/watch?v=ZCIO_2J1gF0>{: rel="noreferrer"}
 
 Making a one-piece matrix mold. I may try this in the future, but probably not with an oil clay positive.  
 <https://www.youtube.com/watch?v=o1bLTp-K9Rc>{: rel="noreferrer"}
 
+Making a plaster bandage mold shell  
+<https://www.youtube.com/watch?v=2Hc6afY-68c>{: rel="noreferrer"}
+ 
 Bubble-free casting without a degassing/vacuum chamber ("Bombs away" method)  
 <https://youtu.be/WtodXHMDOP8?t=247>{: rel="noreferrer"}
+
 ## Sex toy-specific
 
 How to make your own silicon diy dildo creations  

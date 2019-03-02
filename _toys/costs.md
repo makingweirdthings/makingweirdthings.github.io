@@ -30,11 +30,12 @@ Lazy susan | 10.99
 Scraper tools | 7.99
 Bass string set | 7.99
 Fixit sculpt | 26.95
+Buckets and mixing containers | 12.45
 ~~Lexan sheet~~ | ~~12.45~~
 ~~Wooden dowels~~ | ~~3.12~~
-**Total** | **70.60**
+**Total** | **83.05**
 
-### Spent so far: $217.96 USD
+### Spent so far: $230.41 USD
 
 ## Estimated toy cost
 
@@ -68,8 +69,6 @@ A second, identical toy would be cheaper (~$35) because the mold has already bee
 ## Things I have not purchased yet, but may/will need
 
 * More silicone. Won't know for sure until the mold is done.
-* Larger mixing containers.
-* Silicone accelerant for slush casting.
 * Vacuum pump and chamber for silicone degassing. I'm hoping I can get away without this using 
 
 ## Things I bought, and didn't use

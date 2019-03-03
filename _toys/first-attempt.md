@@ -171,7 +171,7 @@ or falls, or doesn't rise nearly as much as it ought to.
 
 {% include image.html url="/assets/img/toys/foam_tests.jpg" description="FlexFoam-iT III in cups" %}
 
-### Plaster shell
+### Plan B, Plaster shell
 
 I used 3&quot;x9&apos; extra-fast plaster bandages for the outer mold shell. 3&quot; was a bit skinny for this, though, so I'd
 probably use 4-6&quot; instead in the future.
@@ -184,6 +184,10 @@ After half an hour, I Used petroleum jelly along the overlapping part of the sea
 half.
 
 {% include image.html url="/assets/img/toys/plaster_full.jpg" description="Second half of the shell done" %}
+
+Pulled the mold apart an hour later so that it can finish setting with both sides exposed to the air.
+
+{% include image.html url="/assets/img/toys/shell_open.jpg" description="Plaster shell removed" %}
 
 Some tips on using plaster bandages for mold making here: <https://www.youtube.com/watch?v=2Hc6afY-68c>{: rel="noreferrer"}
 

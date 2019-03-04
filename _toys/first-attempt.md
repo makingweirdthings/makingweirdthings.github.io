@@ -191,6 +191,25 @@ Pulled the mold apart an hour later so that it can finish setting with both side
 
 Some tips on using plaster bandages for mold making here: <https://www.youtube.com/watch?v=2Hc6afY-68c>{: rel="noreferrer"}
 
+### Demolding
+
+I had some trouble removing the clay positive at first without damaging it. I chilled the mold and clay in the fridge 
+for a couple of hours, sprayed the outside with mold release, and then was able to work the positive out. I think it would
+still require some touch up if I wanted to use it again.
+
+I was able to find a couple of bubbles near the base, but I think it will be OK. I considered trying to patch the holes
+with more silicone, but I think I'd just make a mess of it.
+
+The silicone ended up thinner toward the top, since I usually started there before the silicone has a chance to firm
+up slightly, allowing it to run downhill more than other areas.
+
+{% include image.html url="/assets/img/toys/inside_out.jpg" description="Inverted silicone mold" %}
+
+After demolding, I measured the water it took to fill, and should have enough silicone even with generous overages.
+I'm going to let the mother mold finish setting for a day or two and then finish casting.
+
+{% include image.html url="/assets/img/toys/mold_inside.jpg" description="Interior of brush-on glove mold" %}
+
 ## Casting
 
 *TODO*

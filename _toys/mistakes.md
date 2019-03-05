@@ -70,3 +70,12 @@ temperature, or mixing methods, I cannot get it to set up correctly, or expand t
 
 Even with low expansion, I don't think the foam is dense enough to support the thin silicone shell around
 a tall, liquid silicone pour. Going to try switching to a plaster bandage shell instead.
+
+## Vacuum Degassing
+
+I knew this was a risk, but wanted to find out whether the rest of the process would work out before splurging on more
+expensive vacuum degassing equipment. The finished cast of the toy has a lot of bubbles on the surface, where the mold
+side walls were sloped inward and could catch rising bubbles. I'm sure that the high pour reduced the number of these, 
+but there are still lots of them.
+
+Next casting will use a lower viscosity silicone, and failing that I'll bite the bullet and pick up a vacuum pump and chamber (or diy).

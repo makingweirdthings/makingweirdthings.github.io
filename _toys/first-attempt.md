@@ -213,7 +213,15 @@ I'm going to let the mother mold finish setting for a day or two and then finish
 
 To hold the mold upright for pouring, I just cut a hole in the top of a cardboard box, and taped the box up a bit for strength.
 
+I don't have mold straps, so I used electrical tape to keep the mold shell closed tightly.
+
+{% include image.html url="/assets/img/toys/taped_mold.jpg" description="Plaster mold with electrical tape" %}
+
+
 ## Casting
+
+I turned the mold inside out first and gave it a light spray of Ease Release 200, and brushed it around a bit, then turned the mold
+rightside in again, and gave it a 2 medium/heavy coats of release, and let it sit for about 20 minutes.
 
 Since I don't have a degassing chamber (yet), I used [the _bomb's away_](https://youtu.be/WtodXHMDOP8?t=247){: rel="noreferrer"} to hopefully
 reduce the number of bubbles in the final cast. I drilled a 1/4&quot; hole at the bottom of the side of a quart mixing container,
@@ -253,7 +261,31 @@ After pouring, I set it aside to cure overnight.
 
 ### Demolding the Toy
 
-*TODO*
+The toy was ready to demold in about 6 hours, and was much easier to remove than the clay positive had been,
+since both the mold and toy are strong and stretchy.
+
+{% include image.html url="/assets/img/toys/done.jpg" description="Finished toy,with ruler for scale (out of bananas)" %}
+
+Looks good overall! There are some issues, though.
+ 
+First, the color didn't come out as I hoped. It's very purple, but I was hoping for a wavier mica look, 
+like this commercial toy:
+
+{% include image.html url="/assets/img/toys/mica.jpg" description="Commercial silicone toy mica" %}
+
+It could be that I didn't use enough mica for that effect, or that a faster cure time might have retained some of the
+effect, I'm not sure. I have a little bit of silicone left that I'm going to use for testing with different ratios.
+
+Secondly, it's very floppy and doesn't stand up on it's own because of it. I'd like to find another silicone between the firmness
+of Ecoflex 00-50 and Dragonskin, but have only found one supplier so far with that firmness (Magickmold P-508 from Raw Material Suppliers).
+
+Lastly, and most importantly, the thing is full of bubbles, though they're difficult to see in these photos.
+
+{% include image.html url="/assets/img/toys/bubbles.jpg" description="Surface bubbles in silicone" %}
+
+Obviously degassing is an option, but I'm going to try to recast with a lower viscosity silicone that _shouldn't_
+require vacuum degassing, like Dragonskin NV (shore 10A, probably too firm) or Magikmold P-508 (shore 8A).
+
 
 ## Resources and links
 

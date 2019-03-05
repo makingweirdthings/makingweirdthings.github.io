@@ -16,7 +16,7 @@ Silicone (Ecoflex 00-50) | 2 lbs | 32.21
 Silicone thickener (Thi-vex) | 1oz | 8.89
 Cure retardant (Slo-Jo) | 1 lb | 17.87
 Release agent | 12oz can | 13.86
-~~Expanding foam~~ (FlexFoam-iT III) | 2.8lbs | ~~30.29~~
+~~Expanding foam (FlexFoam-iT III)~~ | 2.8lbs | ~~30.29~~
 Plaster bandages | 12 rolls | 18.89
 **Total** | | 147.36
 
@@ -43,12 +43,12 @@ Making a single toy actually consumed:
 
  Item | Used | Cost
 -- | -- | --
-Brush on silicone | 9.5 ounces | 9.66
+Brush on silicone | 270 grams | 9.66
 Thi-vex | 1 gram | 0.31
 Plaster bandages | 3 rolls | 4.72
 Release agent | 30 grams | 1.22
 Mica | 2.85 grams | 0.87
-Casting silicone | 26 fl oz | 29.19
+Casting silicone | 822 grams, ~26 fl oz | 29.19
 **Total** | |  45.97
 
 A second, identical toy would be cheaper (~31) because the mold has already been made.
@@ -63,7 +63,8 @@ A second, identical toy would be cheaper (~31) because the mold has already been
 * Odorless mineral spirits
 * Dremel and cut off wheels, used for making rake tools
 * Dish soap and mineral oil for smoothing clay
-* Electrical tape
+* Electrical tape to hold the mold halves together
+* Masking tape used while pouring the silicone
 
 ## Things I have not purchased yet, but may/will need
 
@@ -73,7 +74,7 @@ A second, identical toy would be cheaper (~31) because the mold has already been
 ## Things I bought, and didn't use
 
 * 1/4&quot; wooden dowels for tool making
-* FlexFoam-iT III for as a mold support
+* FlexFoam-iT III for use as a mold support
 * Lexan sheet, because I'm not using the foam
 
 ## Cutting costs:
@@ -81,7 +82,7 @@ A second, identical toy would be cheaper (~31) because the mold has already been
 Things I didn't absolutely need to buy:
 
 * All of the sculpting tools. I used them, but it could have been done without them.
-* Armature wire and used stiffer copper wire, which I already had
+* Armature wire instead of (stiffer) copper wire, which I already had
 * Silicone retardant, and just work faster.
-* Lexan sheet. I could have built a larger volume square box instead with scraps.
+* Lexan sheet as a mold box. I could have built a larger volume square box instead with scraps. I didn't end up using this anyway.
 * Mica or pigment. Color isn't strictly required.

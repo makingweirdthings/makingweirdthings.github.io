@@ -192,7 +192,7 @@ Pulled the mold apart an hour later so that it can finish setting with both side
 
 Some tips on using plaster bandages for mold making here: <https://www.youtube.com/watch?v=2Hc6afY-68c>{: rel="noreferrer"}
 
-### Demolding
+### Removing the Mold
 
 I had some trouble removing the clay positive at first without damaging it. I chilled the mold and clay in the fridge
 for a couple of hours, sprayed the outside with mold release, and then was able to work the positive out. I think it would
@@ -206,7 +206,7 @@ up slightly, allowing it to run downhill more than other areas.
 
 {% include image.html url="/assets/img/toys/inside_out.jpg" description="Inverted silicone mold" %}
 
-After demolding, I measured the water it took to fill, and should have enough silicone even with generous overages.
+Afterward, I measured the water it took to fill and should have enough silicone even with generous overages.
 I'm going to let the mother mold finish setting for a day or two and then finish casting.
 
 {% include image.html url="/assets/img/toys/mold_inside.jpg" description="Interior of brush-on glove mold" %}
@@ -236,6 +236,8 @@ After mixing with part A, the silicone still seems plenty purple (though maybe m
 bother adding more mica. I thought that I might need as much as 14 grams for this volume, based on what I've read from
 resin and soap casters. Not sure what it'll look like after demolding.
 
+I then transferred it to pre-drilled container and mixed for a couple more minutes.
+
 {% include image.html url="/assets/img/toys/mixed.jpg" description="Ecoflex all mixed up. So pretty" %}
 
 I poured from a 4 foot step ladder down into the mold, trying to keep the mold angled at first so that the silicone poured into
@@ -249,8 +251,7 @@ After pouring, I set it aside to cure overnight.
 {% include image.html url="/assets/img/toys/poured.jpg" description="Silicone pour complete" %}
 
 
-
-### Demolding
+### Demolding the Toy
 
 *TODO*
 

@@ -46,14 +46,12 @@ Making a single toy actually consumed:
 Brush on silicone | 9.5 ounces | 9.66
 Thi-vex | 1 gram | 0.31
 Plaster bandages | 3 rolls | 4.72
-Release agent | 20 grams | 0.87
-Mica | 14 grams | 4.27
-Casting silicone | 25 fl oz | 31.00
-**Total** | |  50.83
+Release agent | 30 grams | 1.22
+Mica | 2.85 grams | 0.87
+Casting silicone | 26 fl oz | 29.19
+**Total** | |  45.97
 
-Some amounts above are estimates, as the work hasn't been done yet.
-
-A second, identical toy would be cheaper (~$35) because the mold has already been made.
+A second, identical toy would be cheaper (~31) because the mold has already been made.
 
 
 ## Things I had already, and didn't need to purchase
@@ -65,10 +63,11 @@ A second, identical toy would be cheaper (~$35) because the mold has already bee
 * Odorless mineral spirits
 * Dremel and cut off wheels, used for making rake tools
 * Dish soap and mineral oil for smoothing clay
+* Electrical tape
 
 ## Things I have not purchased yet, but may/will need
 
-* More silicone. Won't know for sure until the mold is done.
+* Mold straps
 * Vacuum pump and chamber for silicone degassing. I'm hoping I can get away without this using 
 
 ## Things I bought, and didn't use

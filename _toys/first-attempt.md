@@ -21,7 +21,8 @@ I'll primarily be using the following materials
 
 * Chavant NSP clay for the positive model
 * Smooth-On Rebound 25 brush on silicone for the mold
-* Smooth-On FlexFoam-iT III for the mold shell
+* ~~Smooth-On FlexFoam-iT III for the mold shell~~
+* Extra fast plaster bandages for the mold shell.
 * Smooth-On Ecoflex 00-50 silicone for the cast
 * Cosmetic mica for color
 
@@ -193,7 +194,7 @@ Some tips on using plaster bandages for mold making here: <https://www.youtube.c
 
 ### Demolding
 
-I had some trouble removing the clay positive at first without damaging it. I chilled the mold and clay in the fridge 
+I had some trouble removing the clay positive at first without damaging it. I chilled the mold and clay in the fridge
 for a couple of hours, sprayed the outside with mold release, and then was able to work the positive out. I think it would
 still require some touch up if I wanted to use it again.
 
@@ -210,11 +211,46 @@ I'm going to let the mother mold finish setting for a day or two and then finish
 
 {% include image.html url="/assets/img/toys/mold_inside.jpg" description="Interior of brush-on glove mold" %}
 
+To hold the mold upright for pouring, I just cut a hole in the top of a cardboard box, and taped the box up a bit for strength.
+
 ## Casting
 
-*TODO*
+Since I don't have a degassing chamber (yet), I used [the _bomb's away_](https://youtu.be/WtodXHMDOP8?t=247){: rel="noreferrer"} to hopefully
+reduce the number of bubbles in the final cast. I drilled a 1/4&quot; hole at the bottom of the side of a quart mixing container,
+and put a strip of masking tape over it.
 
-### Additives and pigments
+Earlier, I measured the mold at about 20.5 fluid ounces, and mixed up about 26 fluid ounces of silicone (822 grams), 
+which was way too much, even after deciding against making the bottom a suction cup, and losses when transferring silicone.
+
+I probably could have gotten away with ~23.5 fluid ounces and not run low, or even 21­22 with a suction cup.
+
+I added about 2.5 grams of purple cosmetic mica, and 4.11 grams of Slo-Jo to part B and mixed thoroughly.
+The Slo-Jo should bring the the pot life of the mixed silicone from 18 minutes up to an hour, and the demold time from 2 hours
+up to 4, though I'll be leaving it a bit longer, since I'm casting below 73°F. I wasn't sure how long
+it would take to finish mixing the silicone and pouring. I think I could have gotten by without the Slo-Jo, but it may
+also help the the silicone degas further before curing.
+
+{% include image.html url="/assets/img/toys/partb.jpg" description="Ecoflex Part B with mica" %}
+
+After mixing with part A, the silicone still seems plenty purple (though maybe mare glittery and pearlescent, so I didn't
+bother adding more mica. I thought that I might need as much as 14 grams for this volume, based on what I've read from
+resin and soap casters. Not sure what it'll look like after demolding.
+
+{% include image.html url="/assets/img/toys/mixed.jpg" description="Ecoflex all mixed up. So pretty" %}
+
+I poured from a 4 foot step ladder down into the mold, trying to keep the mold angled at first so that the silicone poured into
+the very bottom, instead of rolling down the side. Mostly successful. Before pouring, I disabled the house hvac, and even so
+even the slightest air current blew the tiny stream of silicone off course.
+
+{% include image.html url="/assets/img/toys/pour.jpg" description="Pouring silicone into the mold" %}
+
+After pouring, I set it aside to cure overnight.
+
+{% include image.html url="/assets/img/toys/poured.jpg" description="Silicone pour complete" %}
+
+
+
+### Demolding
 
 *TODO*
 

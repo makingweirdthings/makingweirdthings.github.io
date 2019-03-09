@@ -181,7 +181,7 @@ I used 4 layers at the edges and the seams, and 3 layers for the rest.
 
 {% include image.html url="/assets/img/toys/plaster_half.jpg" description="First half of the plaster bandage mold" %}
 
-After half an hour, I Used petroleum jelly along the overlapping part of the seam, and used just over a roll for the second
+After half an hour, I used petroleum jelly along the overlapping part of the seam, and used just over a roll for the second
 half.
 
 {% include image.html url="/assets/img/toys/plaster_full.jpg" description="Second half of the shell done" %}
@@ -264,7 +264,7 @@ After pouring, I set it aside to cure overnight.
 The toy was ready to demold in about 6 hours, and was much easier to remove than the clay positive had been,
 since both the mold and toy are strong and stretchy.
 
-{% include image.html url="/assets/img/toys/done.jpg" description="Finished toy,with ruler for scale (out of bananas)" %}
+{% include image.html url="/assets/img/toys/done.jpg" description="Finished toy, with ruler for scale (out of bananas)" %}
 
 Looks good overall! There are some issues, though.
  

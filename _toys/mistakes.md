@@ -50,8 +50,8 @@ The first coat tends to 'grab' the second one, and it's more difficult to brush 
  
  I used 30 grams of rebound for the first and second coat, but I probably should have used at least 40 or 50 instead.
 
-I'm more interested in trying make [a matrix mold](https://www.youtube.com/watch?v=o1bLTp-K9Rc){: rel="noreferrer"} 
-instead next time.
+I'm more interested in trying [a matrix mold](https://www.youtube.com/watch?v=o1bLTp-K9Rc){: rel="noreferrer"} 
+instead in the future, but might need a degassing chamber.
 
 ## Registration Keys and Cure Inhibition
 
@@ -79,3 +79,10 @@ side walls were sloped inward and could catch rising bubbles. I'm sure that the 
 but there are still lots of them.
 
 Next casting will use a lower viscosity silicone, and failing that I'll bite the bullet and pick up a vacuum pump and chamber (or diy).
+
+## Be wary of spills
+
+I spilled one part of the silicone (or was it the Slo-Jo) all over my cheap scale while weighing it. It was thin enough
+to seep into and around the buttons, which then completely fused and could no longer be depressed.
+
+Will add a layer of cling film to the scale next time.

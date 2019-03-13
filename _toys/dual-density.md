@@ -51,3 +51,15 @@ by a 90 gram layer, thickened with Thi-Vex, and applied with a big popsicle stic
 from a the last project's leftovers, and stuck these down into the third layer to help register the mold shell later
 
 {% include image.html url="/assets/img/toys/dual/mold.jpg" description="Mold, after 3 layers" %}
+
+## Support shell
+
+For the shell, I'm using extra fast plaster bandages again. This one took about three, nine-foot rolls. I made it slightly differently
+this time, by creating the first side as normal, then butting up a second edge next to the first one, followed by an overlapping
+strip across the seam (released with petroleum jelly). For this tall, thin model, this felt like a lot more work, and
+it was more difficult to keep the thickness even. Still, it makes for a nice clean seam with a sharper "stop" where the
+halves meet.
+
+{% include image.html url="/assets/img/toys/dual/shell_closed.jpg" description="Plaster bandage shell setting up" %}
+
+{% include image.html url="/assets/img/toys/dual/shell_open.jpg" description="The inside of the plaster bandage shell" %}

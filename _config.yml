@@ -17,7 +17,7 @@ title: Making Weird Things
 description: >- # this means to ignore newlines until "baseurl:"
   Dipping my toes into casting, molding and printing
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://makingweirdthings.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.unusual.tips" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  makingweirdthings
 google_analytics: UA-135668977-1
 

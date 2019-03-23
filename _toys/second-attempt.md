@@ -4,6 +4,9 @@ sticky: true
 date: 2019-03-23
 ---
 
+This is my second attempt at casting [this toy](/toys/first-attempt), see link for details on modeling, mold making, casting,
+etc.
+
 There were a few issues in the first casting that I'm hoping to fix in this second attempt.
 
 The toy is slightly softer than I wanted at 5a. For comparison, my guess is it lands somewhere between Bad Dragon's

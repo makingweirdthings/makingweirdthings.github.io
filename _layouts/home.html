@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign toy_posts = site.toys | where:"sticky", "true" %}
+{% assign toy_posts = site.toys | where:"sticky", "true" | sort:"date" %}
 
 
 <div class="catalogue">

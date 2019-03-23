@@ -1,5 +1,5 @@
 ---
-title: First Attempt
+title: First attempt
 sticky: true
 date: 2019-02-20
 ---

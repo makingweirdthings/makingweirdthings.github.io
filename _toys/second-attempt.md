@@ -45,3 +45,25 @@ To keep it at the right depth, I taped a piece of cardboard to the bowl so that 
 
 After pouring, I held a vibrator to the mold for a couple of minutes, then sprayed the top surface with release agent 
 to pop the surface bubbles, and then set the steel bowl down into the mix.
+
+
+## Results
+
+Some good, some bad, but it's going in the trash.
+
+The suction cup came out well, but had a large bubble that I'm not sure how to get rid of in the future. I don't think it's
+a problem, but it's a little unsightly.
+
+{% include image.html url="/assets/img/toys/suction_cup.jpg" description="Suction cup after demolding" %}
+
+I still have surface bubbles in this one, but fewer of them. The color looks really nice.
+
+{% include image.html url="/assets/img/toys/mica_color.jpg" description="Preeettyy" %} 
+
+Unfortunately, either because of the higher volume of mica, or the lower viscosity of the silicone, much of the mica
+settled to the very bottom (tip) of the toy, and caused the top to disintigrate into a sticky, staining, purple sludge.
+
+{% include image.html url="/assets/img/toys/disintigration.jpg" description="Tip of toy, damaged" %}
+
+I think that a silicone with a low enough viscosity to degass will also suffer from mica settling. Will try vacuum degassing
+for future attempts so that I can use high viscosity silicone.
